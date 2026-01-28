@@ -85,5 +85,3 @@ I'm **Dhriti Sharma**, a Computer Science undergrad from India 🇮🇳 who enjo
 
 ### 💬 Let’s Build Something Cool
 Open to collaborations, internships, side projects, or tech rants about CSS.
-
-⭐ If you like clean code, scalable systems, or witty READMEs — we’ll get along.
