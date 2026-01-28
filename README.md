@@ -11,8 +11,11 @@
   <a href="https://github.com/dhriti16sharma">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:Dhritisharma1601@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  <a href="https://www.linkedin.com/in/dhriti-sharma1601">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://drive.google.com/drive/folders/1UZwqiZWyO58TA5YfOupXHGRTPsqaBIU2?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=google-drive">
   </a>
 </p>
 
@@ -30,7 +33,7 @@ I'm **Dhriti Sharma**, a Computer Science undergrad from India 🇮🇳 who enjo
 - 🧪 Built AI & Computer Vision projects using **OpenCV + MediaPipe**
 - 🚀 Deploying ML models as APIs because notebooks deserve freedom
 - 🌱 Currently learning **Kubernetes & scalable system design**
-- ⚡ Fun fact: I debug better after naps. This is scientifically unverified.
+- ⚡ Fun fact: I debug better after naps (peer-review pending)
 
 ---
 
@@ -85,3 +88,5 @@ I'm **Dhriti Sharma**, a Computer Science undergrad from India 🇮🇳 who enjo
 
 ### 💬 Let’s Build Something Cool
 Open to collaborations, internships, side projects, or tech rants about CSS.
+
+⭐ If you like clean code, scalable systems, or witty READMEs — we’ll get along.
